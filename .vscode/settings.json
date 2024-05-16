@@ -3,5 +3,11 @@
     "java.project.outputPath": "bin",
     "java.project.referencedLibraries": [
         "lib/**/*.jar"
-    ]
+    ],
+    "workbench.colorTheme": "Default Dark Modern",
+    "workbench.preferredDarkColorTheme": "Default Dark Modern",
+    "workbench.preferredLightColorTheme": "Tomorrow Night Blue",
+    "workbench.preferredHighContrastLightColorTheme": "Default Dark Modern",
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.preferredHighContrastColorTheme": "Default Dark Modern"
 }
